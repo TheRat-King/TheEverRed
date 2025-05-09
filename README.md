@@ -55,7 +55,8 @@ Install via [r2modman](https://thunderstore.io/package/ebkr/r2modman/) or manual
 		
  - v1.2.1 : 
 		Corrected images in readme file to populate correctly.
-
+ - v1.2.2 : 
+		Updated mod page wording.
 
 ---
 
