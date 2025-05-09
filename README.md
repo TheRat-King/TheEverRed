@@ -6,7 +6,7 @@ Explore a custom moon with towering obelisks, featuring a familiar yet hauntingl
 ## 📦 Features
 
 - A new vanilla-style moon to explore
-![Main Entrance]images/BepInEx/(mainentrance.png)
+![Main Entrance](images/BepInEx/(mainentrance.png)
  
 - Subtle environmental and design twists  
 ![Fire Escape](images/BepInEx/fireescape.png)
