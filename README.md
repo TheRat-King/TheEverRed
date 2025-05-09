@@ -66,6 +66,6 @@ Outside enemies include || Bunker Spider, Hoarding Bug, Tulip Snake,  Baboon Haw
 
 ---
 
-![Hoarding Bug Thanks](https://postimg.cc/sQVm3MZj)
+![Hoarding Bug Thanks](images/BepInEx/lethal-company-horderbug.gif)
 
 Thanks for downloading! 
