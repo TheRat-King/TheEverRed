@@ -6,13 +6,13 @@ Explore a custom moon with towering obelisks, featuring a familiar yet hauntingl
 ## 📦 Features
 
 - A new vanilla-style moon to explore
-![Main Entrance](images/BepInEx/(mainentrance.png)
+![Main Entrance](https://i.postimg.cc/zGf224D5/mainentrance.png)
  
 - Subtle environmental and design twists  
-![Fire Escape](images/BepInEx/fireescape.png)
+![Fire Escape](https://i.postimg.cc/GhKSQbCq/fireescape.png)
 
 - Keep your eyes open, dangers lurk in the mold spores.
-![Stop Sign](images/BepInEx/stopsign.png)
+![Stop Sign](https://i.postimg.cc/cJg90Y8b/stopsign.png)
 
 ## 🛠 Installation
 
@@ -38,34 +38,27 @@ Install via [r2modman](https://thunderstore.io/package/ebkr/r2modman/) or manual
 
 ## Changes
  - v1.0.0 : 
-        ALPHA : Testing phase.
+        Testing phase.
  - v1.0.1 : 
  
-        Added pictures to the Thunderstore page.
-		Added changelog.
-		Added Git repo added
- - v1.1.0 : 
-
-        Fixed buggy backward-walk animation
-
-        Greatly increased spawn chance 
-
-        Fixed "Scared" backward walk
+        - Added pictures to the Thunderstore page.
+		- Added changelog.
+		- Added Git repo added
  - v1.2.0 : 
 
-        Improved pathfinding (A buff)
-		Dust Clouds is now the primary weather type.
-		Optimised mold spores, so now loading in should be smoother and easier to navigate.
-		New imperfections for telling mimics apart from the real deal
-		Outside scrap fixes.
-		Outside enemy updates.
-Outside enemies include || Bunker Spider, Hoarding Bug, Tulip Snake,  Baboon Hawk, Eyeless Dog, Forest Giant (rare), Earth Leviathan. ||
+        - Improved pathfinding (A buff)
+		- Dust Clouds is now the primary weather type.
+		- Optimised mold spores, so now loading in should be smoother and easier to navigate.
+		- New imperfections for telling mimics apart from the real deal
+		- Outside scrap fixes.
+		- Outside enemy updates.
 		
  - v1.2.1 : 
 		Corrected images in readme file to populate correctly.
 
+
 ---
 
-![Hoarding Bug Thanks](images/BepInEx/lethal-company-horderbug.gif)
+![Hoarding Bug Thanks](https://i.postimg.cc/63ZmLRWv/lethal-company-horderbug.gif)
 
 Thanks for downloading! 
