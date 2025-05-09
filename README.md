@@ -6,13 +6,13 @@ Explore a custom moon with towering obelisks, featuring a familiar yet hauntingl
 ## 📦 Features
 
 - A new vanilla-style moon to explore
-![Main Entrance](https://postimg.cc/SJwGJTzt)
+![Main Entrance]images/BepInEx/(mainentrance.png)
  
 - Subtle environmental and design twists  
-![Fire Escape](https://postimg.cc/D8WgfkmX)
+![Fire Escape](images/BepInEx/fireescape.png)
 
 - Keep your eyes open, dangers lurk in the mold spores.
-![Stop Sign](https://postimg.cc/p9vYBmCf)
+![Stop Sign](images/BepInEx/stopsign.png)
 
 ## 🛠 Installation
 
@@ -63,7 +63,6 @@ Outside enemies include || Bunker Spider, Hoarding Bug, Tulip Snake,  Baboon Haw
 		
  - v1.2.1 : 
 		Corrected images in readme file to populate correctly.
-
 
 ---
 
