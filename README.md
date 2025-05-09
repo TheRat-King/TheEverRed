@@ -1,19 +1,18 @@
 # The Ever Red
 
 **The Ever Red** — a once sacred land lost to time.  
-Explore a custom moon, featuring a familiar yet hauntingly altered experience. This moon stays true to the feel of vanilla Lethal Company while aiming to expand on its atmosphere and sense of exploration.
+Explore a custom moon with towering obelisks, featuring a familiar yet hauntingly altered experience. This moon stays true to the feel of vanilla Lethal Company while aiming to expand on its atmosphere and sense of exploration.
 
 ## 📦 Features
 
 - A new vanilla-style moon to explore
-![Main Entrance](images/BepInEx/mainentrance.png)
+![Main Entrance](https://postimg.cc/SJwGJTzt)
  
 - Subtle environmental and design twists  
-![Stop Sign](images/BepInEx/stopsign.png)
+![Fire Escape](https://postimg.cc/D8WgfkmX)
 
-![Fire Escape](images/BepInEx/fireescape.png)
-
-- Built for seamless integration with other LethalLevelLoader moons  
+- Keep your eyes open, dangers lurk in the mold spores.
+![Stop Sign](https://postimg.cc/p9vYBmCf)
 
 ## 🛠 Installation
 
@@ -37,5 +36,37 @@ Install via [r2modman](https://thunderstore.io/package/ebkr/r2modman/) or manual
 
 ---
 
-![Hoarding Bug Thanks](images/BepInEx/lethal-company-horderbug.gif)
+## Changes
+ - v1.0.0 : 
+        ALPHA : Testing phase.
+ - v1.0.1 : 
+ 
+        Added pictures to the Thunderstore page.
+		Added changelog.
+		Added Git repo added
+ - v1.1.0 : 
+
+        Fixed buggy backward-walk animation
+
+        Greatly increased spawn chance 
+
+        Fixed "Scared" backward walk
+ - v1.2.0 : 
+
+        Improved pathfinding (A buff)
+		Dust Clouds is now the primary weather type.
+		Optimised mold spores, so now loading in should be smoother and easier to navigate.
+		New imperfections for telling mimics apart from the real deal
+		Outside scrap fixes.
+		Outside enemy updates.
+Outside enemies include || Bunker Spider, Hoarding Bug, Tulip Snake,  Baboon Hawk, Eyeless Dog, Forest Giant (rare), Earth Leviathan. ||
+		
+ - v1.2.1 : 
+		Corrected images in readme file to populate correctly.
+
+
+---
+
+![Hoarding Bug Thanks](https://postimg.cc/sQVm3MZj)
+
 Thanks for downloading! 

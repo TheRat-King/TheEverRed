@@ -1,7 +1,7 @@
 {
   "name": "TheEverRed",
-  "version_number": "1.0.1",
-  "website_url": "https://github.com/thunderstore-io",
+  "version_number": "1.2.1",
+  "website_url": "https://github.com/TheRat-King/TheEverRed/tree/main",
   "description": "The Ever Red - a once sacred land lost to time. Explore a new moon with a few surprises. This moon does not stray far from vanilla but is attempting to deepen the exploration of vanilla-like moons.",
   "dependencies": [
     "IAmBatby-LethalLevelLoader-1.4.11",
