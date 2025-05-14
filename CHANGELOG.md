@@ -39,5 +39,21 @@
 		- Added collisions to outside objects
 		- Fixed Navmesh - enemies now will no longer go under terrain
 		- Removed some AI spawn nodes
+ - v1.3.1 : 
+ 
+		UPDATES
+		- Optimised Nav Mesh
+		- Optimised Occulusion
+		- Added some terrain details
+		- Updated fire exit bridge
+		- Minefield now has an additional loot spawn but is more dangerous (loot is not guaranteed to spawn every time)
+		- Adjusted fog to now reach the bounds of the map and rise higher in elevation
+		- Added Bunker Spider to outside enemy spawns
+		- Added The Ever Red moon video to ship
 
+		BUG FIXES
+		- Fixed some mines not being correctly positioned
+		- Adjusted AI spawn points
+		- Increased daytime and outside enemy spawn count
+		
 </details>

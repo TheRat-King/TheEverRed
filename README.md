@@ -65,14 +65,30 @@ Explore a custom moon with towering obelisks, featuring a familiar yet hauntingl
 		- Adjusted outside enemy spawns
 		- Danger level upgraded to B+
 		- Increased route price
-		- Updated mode page wording
+		- Updated mod page wording
 
 		BUG FIXES
 		- Fixed outside items despawning on moon change
 		- Added collisions to outside objects
 		- Fixed Navmesh - enemies now will no longer go under terrain
 		- Removed some AI spawn nodes
+ - v1.3.1 : 
+ 
+		UPDATES
+		- Optimised Nav Mesh
+		- Optimised Occulusion
+		- Added some terrain details
+		- Updated fire exit bridge
+		- Minefield now has an additional loot spawn but is more dangerous (loot is not guaranteed to spawn every time)
+		- Adjusted fog to now reach the bounds of the map and rise higher in elevation
+		- Added Bunker Spider to outside enemy spawns
+		- Added The Ever Red moon video to ship
 
+		BUG FIXES
+		- Fixed some mines not being correctly positioned
+		- Adjusted AI spawn points
+		- Increased daytime and outside enemy spawn count
+		
 ---
 
 ![Hoarding Bug Thanks](https://i.postimg.cc/63ZmLRWv/lethal-company-horderbug.gif)
